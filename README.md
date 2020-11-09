@@ -19,4 +19,4 @@
 
 - Final report and achivement
 
-	We write [final report](https://github.com/DwayneLi/Check_Algorithm_Bias_In_Hiring/blob/master/Final_Report.pdf) and made [final presentation](https://github.com/DwayneLi/Check_Algorithm_Bias_In_Hiring/blob/master/Final_Presentation.pptx) about all the works we have done. The check and mitigate bias model has merged into company’s equal opportunity promotion and has applied to cover more than 90% of company customers.
+	We write [final report](https://github.com/DwayneLi/Check_Algorithm_Bias_In_Hiring/blob/master/Final_Report.pdf) and made [final presentation](https://github.com/DwayneLi/Check_Algorithm_Bias_In_Hiring/blob/master/Final_Presentation.pptx) about all the works we have done. The check and mitigate bias model has merged into company’s equal opportunity promotion and has applied to cover more than 90% of company customers. 
